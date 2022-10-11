@@ -1,0 +1,26 @@
+<resources>
+	<string name="app_name">AsiaHD</string>
+	<string name="title_activity_home">HomeActivity</string>
+	<string name="navigation_drawer_open">Open navigation drawer</string>
+	<string name="navigation_drawer_close">Close navigation drawer</string>
+	<string name="nav_header_title">Asian HD</string>
+	<string name="nav_header_subtitle">https://fb.com/BeautyAsiaGirlPhoto/</string>
+	<string name="nav_header_desc">Navigation header</string>
+	<string name="action_settings">Settings</string>
+
+	<!-- TODO: Remove or change this placeholder text -->
+	<string name="hello_blank_fragment">Hello blank fragment</string>
+	<string name="title_activity_post">PostActivity</string>
+	<string name="title_activity_gallery">GalleryActivity</string>
+	<string name="latest">Latest</string>
+	<string name="send_to">Share to</string>
+	<string name="google_play">https://play.google.com/net.tapetee?id=6677028</string>
+	<string name="title_activity_group_chat">GroupChatActivity</string>
+	<string name="category">Category</string>
+	<string name="album">%d albums</string>
+	<string name="group_link">https://www.facebook.com/groups/370846400243009</string>
+	<string name="title_activity_photo_pager">PhotoPagerActivity</string>
+	<string name="tab_text_1">Tab 1</string>
+	<string name="tab_text_2">Tab 2</string>
+
+</resources>

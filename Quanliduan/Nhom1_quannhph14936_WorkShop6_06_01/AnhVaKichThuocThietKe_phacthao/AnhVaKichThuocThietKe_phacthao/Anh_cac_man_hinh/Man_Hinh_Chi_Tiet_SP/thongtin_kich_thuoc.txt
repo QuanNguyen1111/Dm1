@@ -1,0 +1,8 @@
+image : w 105 h 127 
+text - tên áo : 20sp ->  màu : black;
+text - giá : 20sp màu : #D60776;
+edittext : w :  152 , h :  45 
+button - thêm gio hàng : w : 175 , h : 30 
+text - Mô tả sản phẩm : 30sp -> màu : #1A60EE;
+font chữ : Calibri;
+

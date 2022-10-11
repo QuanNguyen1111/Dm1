@@ -1,0 +1,2 @@
+text_siez : 25sp , color : red;
+Button - thanh toán - tiêp tục mua hàng : text_size : 25sp , color : #D60776;

@@ -1,0 +1,5 @@
+Image_view : w : 70dp , h : 70dp;
+text_siez : 20sp ;
+text_color - Tên váy: #03A9F4;
+text_color - giá : #E91E63;
+text_color - Mô tả : black;

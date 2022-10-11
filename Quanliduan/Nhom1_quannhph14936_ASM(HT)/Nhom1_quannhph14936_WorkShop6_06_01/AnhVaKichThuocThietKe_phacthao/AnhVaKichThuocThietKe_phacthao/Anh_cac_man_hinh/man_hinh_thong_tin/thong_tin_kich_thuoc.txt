@@ -1,0 +1,3 @@
+image - gio hàng  : w : 114 , h : 64 ;
+text_size : 20sp - > color : #508DE8 - > phông chữ : Arial Rounded MT ;
+image - bản  đồ : w :  459 ; h : 657;

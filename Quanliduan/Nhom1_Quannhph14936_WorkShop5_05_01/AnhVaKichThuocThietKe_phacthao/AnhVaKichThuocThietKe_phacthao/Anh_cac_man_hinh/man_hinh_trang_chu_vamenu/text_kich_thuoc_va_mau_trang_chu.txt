@@ -1,0 +1,10 @@
+backgroud : #CCCCCC
+backgroud Sản phẩm : #9E9191
+color - tên sản phẩm : #FFF
+color - giá : black 
+cỡ chữ -  Trang chủ  : 20 
+phông chữ : Arial Rounded MT
+cỡ chữ của tên sản phẩm giá : 15 
+kích thương ảnh bìa : W 400  H : 220
+Kích thước ảnh sản phẩm : W : 84 H : 100
+kích thước backgroud Sản phẩm :  W : 172 H : 198 

@@ -1,0 +1,6 @@
+backgroud : #CCCCCC;
+Imgae_logo : w :200dp , h:200dp;
+Imgae_email - pass :  w : 30dp,h:30dp;
+text - Register  - back: text_size : 20sp; color #242020;
+button-logon : w :200dp , h: 45dp;
+text - 2002 - louisvuitton : text_siez : 10sp , bold và chữ nghiêng;

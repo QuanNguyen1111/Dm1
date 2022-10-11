@@ -1,0 +1,8 @@
+backgroud : #FFF
+backgroud Sản phẩm : #9E9191
+color - chữ trang chủ  : red
+color - chữ  : black 
+cỡ chữ -  Trang chủ  : 23 
+phông chữ : Arial Rounded MT
+kích thước của từng ô : W : 285 H : 95
+

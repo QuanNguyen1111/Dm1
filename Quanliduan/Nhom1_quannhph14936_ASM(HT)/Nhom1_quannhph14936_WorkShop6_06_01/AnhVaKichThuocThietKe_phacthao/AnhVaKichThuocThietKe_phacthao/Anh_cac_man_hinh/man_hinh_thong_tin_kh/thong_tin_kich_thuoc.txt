@@ -1,0 +1,7 @@
+backgroud : #F61CAE;
+Textinput_layout : w : 366dp , h : 56dp;
+text_siez : 15sp - color : black - phông chữ : Calibri;
+buton : w : 201dp , h : 45 dp - raduis : 10 dp - text_size : 20sp ;
+Text_siez - thong tin khach hàng : 30sp; 
+
+

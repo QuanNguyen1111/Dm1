@@ -1,0 +1,5 @@
+backgroud : #CCCCCC;
+text_input_layout : w : 336 ; h : 56 ;
+button - Send - back : text - siez : 24sp , backfroud : #7878E8;
+text_2002_louisvutton : chữ nghiêng , text_siez : 10sp;
+img_logo :w : 200 dp , h : 200dp;

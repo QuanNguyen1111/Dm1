@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".KetQuaActivity"
+    android:padding="20dp">
+
+    <ImageView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        android:src="@drawable/ic_sao"
+        android:id="@+id/image_Sao"
+        app:layout_constraintEnd_toEndOf="parent"
+        />
+
+    <TextView
+        android:layout_marginTop="25dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="id"
+        android:textSize="20sp"
+        app:layout_constraintTop_toBottomOf="@+id/image_Sao"
+        android:id="@+id/txt_ket_qua_id"
+         />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="tên"
+        android:textSize="20sp"
+        app:layout_constraintTop_toBottomOf="@+id/txt_ket_qua_id"
+        android:id="@+id/txt_ket_qua_name"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Giá "
+        android:textSize="20sp"
+        app:layout_constraintTop_toBottomOf="@+id/txt_ket_qua_name"
+        android:id="@+id/txt_ket_qua_gia"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="created_at "
+        android:textSize="20sp"
+        app:layout_constraintTop_toBottomOf="@+id/txt_ket_qua_gia"
+        android:id="@+id/txt_ket_qua_created_at"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="updated_at "
+        android:textSize="20sp"
+        app:layout_constraintTop_toBottomOf="@+id/txt_ket_qua_created_at"
+        android:id="@+id/txt_ket_qua_updated_at"
+        />
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

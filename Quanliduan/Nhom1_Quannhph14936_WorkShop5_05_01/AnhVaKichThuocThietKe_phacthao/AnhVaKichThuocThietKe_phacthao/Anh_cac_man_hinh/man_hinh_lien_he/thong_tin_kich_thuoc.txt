@@ -1,0 +1,4 @@
+Image_view : w : 70dp , h : 70dp;
+text_size - thông tin liên hệ : 35sp  - > color : #2E2B2B;
+text_size - tên - sdt : 20sp - > color : #E91E63;
+text_color - link fb : #3F51B5;  
